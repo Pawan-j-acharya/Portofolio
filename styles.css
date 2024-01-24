@@ -1,0 +1,19 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #52a7c1;
+    background-image: linear-gradient(315deg, #52a7c1 0%, #b3f6d8 74%);
+    height: 100vh;
+}
+
+body{
+    /* box-sizing: border-box;
+    margin: 0;
+    padding: 0; */
+    /* overflow: hidden; */
+    height: 97vh;
+    background-color: rgba(255, 255, 255, 0.438);
+    border: 1px solid rgba(255, 255, 255, 0.418);
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+   
+}
